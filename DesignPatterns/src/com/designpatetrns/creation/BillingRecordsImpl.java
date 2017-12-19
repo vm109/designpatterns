@@ -5,6 +5,9 @@ import java.util.Map;
 
 import com.desigpatterns.creation.interfaces.BillingRecords;
 
+/* 
+ * Billing design Patterns
+ */
 public class BillingRecordsImpl implements BillingRecords{
     
 	private static BillingRecords billingRecords= null;
