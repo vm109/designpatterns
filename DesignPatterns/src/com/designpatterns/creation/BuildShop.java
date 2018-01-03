@@ -1,6 +1,6 @@
-package com.designpatetrns.creation;
+package com.designpatterns.creation;
 
-import com.designpatetrns.basepojos.Shop;
+import com.designpatterns.basepojos.Shop;
 
 /* 
  * How do you build a shop with its attributes ?
@@ -28,6 +28,5 @@ public class BuildShop extends Shop{
 		setSittingFacility(hasSitting);
 		return (BuildShop) shop;
 	}
-	
 	
 }

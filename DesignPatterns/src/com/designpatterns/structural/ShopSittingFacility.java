@@ -1,6 +1,6 @@
 package com.designpatterns.structural;
 
-import com.designpatetrns.basepojos.Shop;
+import com.designpatterns.basepojos.Shop;
 
 /*
 changed on master

@@ -1,4 +1,4 @@
-package com.designpatetrns.basepojos;
+package com.designpatterns.basepojos;
 
 /**
  * @author yvxm035
